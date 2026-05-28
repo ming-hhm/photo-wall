@@ -2,6 +2,12 @@
 
 动物森友会风格的 AI 照片墙，支持视觉大模型自动点评。
 
+## 📸 预览
+
+![Photo Wall Preview](screenshots/photo-wall-preview.png)
+
+> 点击「AI 视觉配置」按钮可配置 Vision API，实现 AI 自动点评照片
+
 ## ✨ 功能
 
 - 📸 **2×4 网格布局** — 8 张照片精美展示
